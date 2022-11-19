@@ -1,0 +1,33 @@
+{
+    "Projects": [
+        {
+            "id": 1,
+            "name": "Todo App",
+            "info": "Todo app made with React.js.",
+            "link": "https://sahillede-todolist.netlify.app",
+            "imgLink": "https://drive.google.com/uc?id=1wipG8oyAY6FEfAaScV20fc5W_wQ_1ELP    "
+        },
+        {
+            "id": 2,
+            "name": "Opensoft 2k22",
+            "info": "In team of 20 people I worked in Frontend part and built applications using React and Material UI for a Food Ordering Application for both the Users and Restaurants. Also designed it in Figma. Currently website is not functional as backend servers are down.",
+            "link": "http://opensoft-505-app-frontend.netlify.app",
+            "imgLink": "https://drive.google.com/uc?id=1fhoF8fxGlaCiZl9y6zgeLheoPqYcZIaI"
+        }
+    ],
+    "Skills": [
+        {
+            "id": 1,
+            "name": "web dev",
+            "skill": "Knows HTML, CSS, SASS, JSX, React JS, Figma & Material UI.",
+            "imgLink": "https://drive.google.com/uc?id=1C77DPX-4yRceaOPVwTTPebvgduZGGDuo"
+            
+        },
+        {
+            "id": 2,
+            "name": "programming",
+            "skill": "Can code in C & C++. ",
+            "imgLink": "https://drive.google.com/uc?id=1C77DPX-4yRceaOPVwTTPebvgduZGGDuo"
+        }
+    ]
+}
